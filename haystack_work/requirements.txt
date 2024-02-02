@@ -1,0 +1,3 @@
+astra-haystack
+sentence-transformers
+haystack-ai
